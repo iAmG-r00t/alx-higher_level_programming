@@ -46,13 +46,13 @@ Namespaces are one honking great idea -- let's do more of those!
 
 - How to fix the below error:
 
-<pre>FutureWarning: Possible nested set at position 1<br>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[[({] | []}),;:]')\`</pre>
+<pre>FutureWarning: Possible nested set at position 1<br>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[[({] | []}),;:]')`</pre>
 
 - Comment out the statement:
 <pre>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[[({] | []}),;:]')</pre>
 
 - And below that line add this line:
-<pre>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[\\[({] | [\\]}),;:]')</pre>
+<pre>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[\[({] | [\]}),;:]')</pre>
 
 </details>
 
