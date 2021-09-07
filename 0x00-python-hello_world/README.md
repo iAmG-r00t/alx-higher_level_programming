@@ -71,3 +71,5 @@
 	- Your program should be exactly 5 lines long
 	- You are not allowed to create new variables
 	- You are not allowed to use string literals
+9. [Easter Egg](9-easter_egg.py) : Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.
+	- Your script should be maximum 98 characters long (please check with `wc -m 9-easter_egg.py`)
