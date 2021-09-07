@@ -20,3 +20,9 @@
 
 	guillaume@ubuntu:~/py/0x00$ export PYFILE=main.py
 	```
+1. [Run inline](1-run_inline) : Write a Shell script that runs Python code.
+	- The Python code will be saved in the environment variable `$PYCODE`
+
+	```sh
+	guillaume@ubuntu:~/py/0x00$ export PYCODE='print("Holberton School: {}".format(88+10))'
+	```
