@@ -37,3 +37,10 @@
 	- Your code must be 3 lines long
 	- You have to use the new print numbers [tips](https://pyformat.info/#number) (with `.format(...)`)
 	> C is strongly typed… not in Python! The variable `number`  can be assigned to a string, a float, a bool etc… Forcing the type during a string format (`"...".format(...)`) is a way to control the type of a variable
+4. [Print float](4-print_float.py) : Complete the source code in order to print the float stored in the variable `number` with a precision of 2 digits.
+	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py)
+	- The output of the program should be:
+		- `Float:`, followed by the float with only two digits.
+		- Followed by a new line.
+	- You are not allowed to cast the variable `number` into a string.
+	- You have to use the new print numbers [tips](https://pyformat.info/#number) (with `.format(...)`)
