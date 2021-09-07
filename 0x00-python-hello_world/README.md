@@ -28,3 +28,12 @@
 	```
 2. [Hello, print](2-print.py) : Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line.
 	- Use the function `print`
+3. [Print integer](3-print_number.py) : Complete the source code in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.
+	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py)
+	- The output of the script should be:
+		- the number, followed by `Battery street`,
+		- followed by a new line.
+	- You are not allowed to cast the variable `number` into a string.
+	- Your code must be 3 lines long
+	- You have to use the new print numbers [tips](https://pyformat.info/#number) (with `.format(...)`)
+	> C is strongly typed… not in Python! The variable `number`  can be assigned to a string, a float, a bool etc… Forcing the type during a string format (`"...".format(...)`) is a way to control the type of a variable
