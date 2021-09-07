@@ -52,7 +52,7 @@ Namespaces are one honking great idea -- let's do more of those!
 <pre>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[[({] | []}),;:]')</pre>
 
 - And below that line add this line:
-<pre>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[\[({] | [\]}),;:]')</pre>
+<pre>EXTRANEOUS_WHITESPACE_REGEX = re.compile(r'[\[({] | [\]}),;:]')</pre>
 
 </details>
 
