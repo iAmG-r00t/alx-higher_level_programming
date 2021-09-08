@@ -71,3 +71,4 @@ Namespaces are one honking great idea -- let's do more of those!
 ---
 
 - [0x00](./0x00-python-hello_world) : Hello, World.
+- [0x01](./0x01-python-if_else_loops_functions) : if/else, loops, functions.
