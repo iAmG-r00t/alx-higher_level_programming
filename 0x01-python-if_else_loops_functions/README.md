@@ -65,3 +65,11 @@
 	- You can only use no more than 2 loops in your code
 	- You are not allowed to store numbers or strings in a variable
 	- You are not allowed to import any module
+7. [islower](7-islower.py) : Write a function that checks for lowercase character.
+	- Prototype: `def islower(c):`
+	- Returns `True` if `c` is lowercase
+	- Returns `False` otherwise
+	- You are not allowed to import any module
+	- You are not allowed to use `str.upper()` and `str.isupper()`
+	- **Tips:**[ord()](https://docs.python.org/3.4/library/functions.html?highlight=ord#ord)
+	- You don’t need to understand `__import__`
