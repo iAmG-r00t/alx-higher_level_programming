@@ -40,3 +40,9 @@
 	- You can only use one loop in your code
 	- You are not allowed to store characters in a variable
 	- You are not allowed to import any module
+4. [Hexadecimal printing](4-print_hexa.py) : Write a program that prints all numbers from `0` to `98` in decimal and in hexadecimal (as in the following example)
+	- Print all the letters except `q` and `e`
+	- You can only use one `print` function with string format
+	- You can only use one loop in your code
+	- You are not allowed to store characters in a variable
+	- You are not allowed to import any module
