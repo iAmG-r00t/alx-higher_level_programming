@@ -32,27 +32,15 @@ Namespaces are one honking great idea -- let's do more of those!
 >I thought I had escaped [betty](https://github.com/holbertonschool/Betty), but here we have [PEP8](https://www.python.org/dev/peps/pep-0008/)
 
 <details>
-<summary> Install Pip3 and Pep8</summary>
+<summary> Install Python3, pip3 and pycodestyle</summary>
 
-- Pycodestyle is now the new standard of Python style code, but at ALX we will use PEP8, version 1.7.\* Don’t worry, pycodestyle is based on pep8.
+- Pycodestyle is now the new standard of Python style code.
 
-- The requirement is to use ubuntu 14.04 and old fellah, faced some issue using it be warned you will face some errors.
-
-<pre>$ sudo apt-get install python3-pip<br>$ sudo apt-get install python3-pep8<br>$ sudo pip3 install -Iv pep8==1.7.0</pre>
+<pre>$ sudo apt-get install python3 python3-pip<br>$ pip install pycodestyle</pre>
 
 - Confirm you have the right version.
 
-<pre>$ pep8 --version<br>1.7.0<br>$</pre>
-
-- How to fix the below error:
-
-<pre>FutureWarning: Possible nested set at position 1<br>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[[({] | []}),;:]')</pre>
-
-- Comment out the statement:
-<pre>EXTRANEOUS\_WHITESPACE\_REGEX = re.compile(r'[[({] | []}),;:]')</pre>
-
-- And below that line add this line:
-<pre>EXTRANEOUS_WHITESPACE_REGEX = re.compile(r'[\[({] | [\]}),;:]')</pre>
+<pre>$ pycodestyle --version<br>$</pre>
 
 </details>
 
@@ -65,11 +53,12 @@ Namespaces are one honking great idea -- let's do more of those!
 
 - [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 - [Learn to Program](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
-- [PEP 8 -- Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008/)
 - [The Python Handbook](https://www.freecodecamp.org/news/the-python-handbook/)
+- [pycodestyle](https://pypi.org/project/pycodestyle/)
 
 ---
 
 - [0x00](./0x00-python-hello_world) : Hello, World.
 - [0x01](./0x01-python-if_else_loops_functions) : if/else, loops, functions.
 - [0x02](./0x02-python-import_modules) : import & modules.
+- [0x03](./0x03-python-data_structures) : Data Structures: Lists, Tuples.
