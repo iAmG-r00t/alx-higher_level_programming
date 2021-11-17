@@ -29,3 +29,9 @@
 <summary><a href="./2-remove_database.sql">2. Delete a database</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/XNZ4SPSz/image.png' border='0' alt='image'/></a><br /><a href='https://banks-nearme.com/regions-bank-near-me'>what time does regions bank close today</a><br />
 </details>
+
+
+<details>
+<summary><a href="./3-list_tables.sql">3. List tables</a></summary><br>
+<a href='https://postimg.cc/Hr5NJMCZ' target='_blank'><img src='https://i.postimg.cc/nhwfPKSJ/image.png' border='0' alt='image'/></a>
+</details>
