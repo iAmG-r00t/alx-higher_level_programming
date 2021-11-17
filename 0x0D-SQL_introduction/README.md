@@ -35,3 +35,8 @@
 <summary><a href="./3-list_tables.sql">3. List tables</a></summary><br>
 <a href='https://postimg.cc/Hr5NJMCZ' target='_blank'><img src='https://i.postimg.cc/nhwfPKSJ/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./4-first_table.sql">4. First table</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/LXQyHvf9/image.png' border='0' alt='image'/></a>
+</details>
