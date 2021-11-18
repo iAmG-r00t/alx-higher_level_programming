@@ -35,3 +35,8 @@
 <summary><a href="./0-privileges.sql">0. My privileges!</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HnxfkbM9/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./1-create_user.sql">0. Root user</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/bwG5ZQvm/image.png' border='0' alt='image'/></a>
+</details>
