@@ -50,3 +50,8 @@
 <summary><a href="./6-list_values.sql">6. List all in table</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/kXSbWhbt/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./7-insert_value.sql">7. First add</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/7ZsmfZJN/image.png' border='0' alt='image'/></a>
+</details>
