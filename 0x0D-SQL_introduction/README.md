@@ -45,3 +45,8 @@
 <summary><a href="./5-full_table.sql">5. Full description</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/kXFdC6w2/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./6-list_values.sql">6. List all in table</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/kXSbWhbt/image.png' border='0' alt='image'/></a>
+</details>
