@@ -100,3 +100,8 @@
 <summary><a href="./16-no_link.sql">16. Say my name</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZKZnj8b1/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./100-move_to_utf8.sql">17. Go to UTF8</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/m25D40NG/image.png' border='0' alt='image'/></a>
+</details>
