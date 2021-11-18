@@ -33,5 +33,5 @@
 
 <details>
 <summary><a href="./0-privileges.sql">0. My privileges!</a></summary><br>
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/q7xR8GCc/image.png' border='0' alt='image'/></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HnxfkbM9/image.png' border='0' alt='image'/></a>
 </details>
