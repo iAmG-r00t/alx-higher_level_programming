@@ -75,3 +75,8 @@
 <summary><a href="./11-best_score.sql">11. Select the best</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/CKYCSTJK/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./12-no_cheating.sql">12. Cheating is bad</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/RVSQkzsV/image.png' border='0' alt='image'/></a>
+</details>
