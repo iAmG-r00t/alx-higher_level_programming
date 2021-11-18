@@ -60,3 +60,8 @@
 <summary><a href="./8-count_89.sql">8. Count 89</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/7Z3qkjCD/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./9-full_creation.sql">9. Full creation</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/23pMV8q6/image.png' border='0' alt='image'/></a>
+</details>
