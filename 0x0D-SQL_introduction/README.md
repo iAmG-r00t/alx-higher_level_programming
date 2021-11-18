@@ -90,3 +90,8 @@
 <summary><a href="./14-average.sql">14. Average</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/gk4rnxV8/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./15-groups.sql">15. Number by score</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/VLzpK637/image.png' border='0' alt='image'/></a>
+</details>
