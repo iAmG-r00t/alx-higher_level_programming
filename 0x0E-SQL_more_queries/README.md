@@ -45,3 +45,8 @@
 <summary><a href="./2-create_read_user.sql">2. Read user</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/zGg9d9gC/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./3-force_name.sql">3. Always a name</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/3wSrhstk/image.png' border='0' alt='image'/></a>
+</details>
