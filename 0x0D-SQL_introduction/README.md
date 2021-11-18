@@ -70,3 +70,8 @@
 <summary><a href="./10-top_score.sql">10. List by best</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/hGb201XK/image.png' border='0' alt='image'/></a><br /><a href='https://suwalls.com/vector/sad-girl-silhouette'></a>
 </details>
+
+<details>
+<summary><a href="./11-best_score.sql">11. Select the best</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/CKYCSTJK/image.png' border='0' alt='image'/></a>
+</details>
