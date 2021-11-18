@@ -115,3 +115,8 @@
 <summary><a href="./102-top_city.sql">19. Temperatures #1</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/x8wTFGjh/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./103-max_state.sql">20. Temperatures #2</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/K8vn2Lnw/image.png' border='0' alt='image'/></a>
+</details>
