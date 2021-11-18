@@ -110,3 +110,8 @@
 <summary><a href="./101-avg_temperatures.sql">18. Temperatures #0</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/8cGKnpzB/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./102-top_city.sql">19. Temperatures #1</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/x8wTFGjh/image.png' border='0' alt='image'/></a>
+</details>
