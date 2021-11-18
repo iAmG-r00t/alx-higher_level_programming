@@ -95,3 +95,8 @@
 <summary><a href="./15-groups.sql">15. Number by score</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/VLzpK637/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./16-no_link.sql">16. Say my name</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ZKZnj8b1/image.png' border='0' alt='image'/></a>
+</details>
