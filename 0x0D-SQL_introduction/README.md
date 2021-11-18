@@ -65,3 +65,8 @@
 <summary><a href="./9-full_creation.sql">9. Full creation</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/23pMV8q6/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./10-top_score.sql">10. List by best</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/hGb201XK/image.png' border='0' alt='image'/></a><br /><a href='https://suwalls.com/vector/sad-girl-silhouette'></a>
+</details>
