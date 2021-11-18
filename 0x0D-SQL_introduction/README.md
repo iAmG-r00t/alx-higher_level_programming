@@ -80,3 +80,8 @@
 <summary><a href="./12-no_cheating.sql">12. Cheating is bad</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/RVSQkzsV/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./13-change_class.sql">13. Score too low</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HLwtGsgn/image.png' border='0' alt='image'/></a>
+</details>
