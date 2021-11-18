@@ -105,3 +105,8 @@
 <summary><a href="./100-move_to_utf8.sql">17. Go to UTF8</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/m25D40NG/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./101-avg_temperatures.sql">18. Temperatures #0</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/8cGKnpzB/image.png' border='0' alt='image'/></a>
+</details>
