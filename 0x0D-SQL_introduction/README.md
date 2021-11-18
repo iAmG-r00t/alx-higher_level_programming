@@ -55,3 +55,8 @@
 <summary><a href="./7-insert_value.sql">7. First add</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/7ZsmfZJN/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./8-count_89.sql">8. Count 89</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/7Z3qkjCD/image.png' border='0' alt='image'/></a>
+</details>
