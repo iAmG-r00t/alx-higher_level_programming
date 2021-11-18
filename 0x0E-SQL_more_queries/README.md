@@ -37,6 +37,11 @@
 </details>
 
 <details>
-<summary><a href="./1-create_user.sql">0. Root user</a></summary><br>
+<summary><a href="./1-create_user.sql">1. Root user</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/bwG5ZQvm/image.png' border='0' alt='image'/></a>
+</details>
+
+<details>
+<summary><a href="./2-create_read_user.sql">2. Read user</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/zGg9d9gC/image.png' border='0' alt='image'/></a>
 </details>
