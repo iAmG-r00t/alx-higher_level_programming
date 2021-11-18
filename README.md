@@ -62,4 +62,5 @@ Namespaces are one honking great idea -- let's do more of those!
 - [0x01](./0x01-python-if_else_loops_functions) : if/else, loops, functions.
 - [0x02](./0x02-python-import_modules) : import & modules.
 - [0x03](./0x03-python-data_structures) : Data Structures: Lists, Tuples.
-- [0x0D](./0x0D-SQL_introduction) : SQL - Introduction
+- [0x0D](./0x0D-SQL_introduction) : SQL - Introduction.
+- [0x0E](./0x0E-SQL_more_queries) : SQL - More queries.
