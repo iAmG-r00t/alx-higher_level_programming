@@ -75,3 +75,8 @@
 <summary><a href="./8-cities_of_california_subquery.sql">8. Cities of California</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/FKQgv8Xc/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./9-cities_by_state_join.sql">9. Cities by States</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/FsSwxfmx/image.png' border='0' alt='image'/></a>
+</details>
