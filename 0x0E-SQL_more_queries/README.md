@@ -55,3 +55,8 @@
 <summary><a href="./4-never_empty.sql">4. ID can't be null</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HsjZxqc7/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./5-unique_id.sql">5. Unique ID</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/RCWpVrnJ/image.png' border='0' alt='image'/></a>
+</details>
