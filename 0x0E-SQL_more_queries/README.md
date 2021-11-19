@@ -60,3 +60,8 @@
 <summary><a href="./5-unique_id.sql">5. Unique ID</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/RCWpVrnJ/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./6-states.sql">6. States table</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/43MtW04j/image.png' border='0' alt='image'/></a>
+</details>
