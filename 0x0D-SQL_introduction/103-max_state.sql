@@ -1,6 +1,5 @@
 -- displays the max temprature of each state ordered by ststename
--- source temperatures_2.sql
-
+-- source temperatures.sql;
 SELECT state, MAX(value) AS max_temp
 FROM temperatures
 GROUP BY state

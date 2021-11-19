@@ -1,5 +1,5 @@
 -- displays the top 3 of cities temp during July and August ordered by temp DESC
--- source temperatures_1.sql
+-- source temperatures.sql;
  
 SELECT city, AVG(value) AS avg_temp
 FROM temperatures
