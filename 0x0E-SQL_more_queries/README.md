@@ -125,3 +125,8 @@
 <summary><a href="./101-not_a_comedy.sql">18. No Comedy tonight!</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/TPKhr6S8/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./102-rating_shows.sql">19. Rotten tomatoes</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/YCwJ6fst/image.png' border='0' alt='image'/></a>
+</details>
