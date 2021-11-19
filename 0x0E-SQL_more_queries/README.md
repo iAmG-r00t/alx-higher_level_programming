@@ -130,3 +130,8 @@
 <summary><a href="./102-rating_shows.sql">19. Rotten tomatoes</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/YCwJ6fst/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./103-rating_genres.sql">20. Best genre</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/dVYNgQvF/image.png' border='0' alt='image'/></a>
+</details>
