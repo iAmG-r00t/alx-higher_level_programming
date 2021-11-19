@@ -50,3 +50,8 @@
 <summary><a href="./3-force_name.sql">3. Always a name</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/3wSrhstk/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./4-never_empty.sql">4. ID can't be null</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HsjZxqc7/image.png' border='0' alt='image'/></a>
+</details>
