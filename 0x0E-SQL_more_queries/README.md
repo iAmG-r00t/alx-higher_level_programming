@@ -110,3 +110,8 @@
 <summary><a href="./15-comedy_only.sql">15. Only Comedy</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/15PrtKh9/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./16-shows_by_genre.sql">16. List shows and genres</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Y9vLjh8f/image.png' border='0' alt='image'/></a>
+</details>
