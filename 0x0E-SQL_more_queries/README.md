@@ -70,3 +70,8 @@
 <summary><a href="./7-cities.sql">7. Cities table</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/P5HkwfmR/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./8-cities_of_california_subquery.sql">8. Cities of California</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/FKQgv8Xc/image.png' border='0' alt='image'/></a>
+</details>
