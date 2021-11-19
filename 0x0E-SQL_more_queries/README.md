@@ -90,3 +90,8 @@
 <summary><a href="./11-genre_id_all_shows.sql">11. Genre ID for all shows</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/4dpdQ7yb/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./12-no_genre.sql">12. No genre</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/7Yk6gGbY/image.png' border='0' alt='image'/></a>
+</details>
