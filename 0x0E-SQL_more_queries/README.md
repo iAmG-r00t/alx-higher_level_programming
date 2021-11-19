@@ -80,3 +80,8 @@
 <summary><a href="./9-cities_by_state_join.sql">9. Cities by States</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/FsSwxfmx/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./10-genre_id_by_show.sql">10. Genre ID by show</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/bN0nXhhj/image.png' border='0' alt='image'/></a>
+</details>
