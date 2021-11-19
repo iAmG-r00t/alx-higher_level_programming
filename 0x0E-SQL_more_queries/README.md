@@ -65,3 +65,8 @@
 <summary><a href="./6-states.sql">6. States table</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/43MtW04j/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./7-cities.sql">7. Cities table</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/P5HkwfmR/image.png' border='0' alt='image'/></a>
+</details>
