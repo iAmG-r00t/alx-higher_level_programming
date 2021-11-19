@@ -120,3 +120,8 @@
 <summary><a href="./100-not_my_genres.sql">17. Not my genre</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/LsdxMC2P/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./101-not_a_comedy.sql">18. No Comedy tonight!</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/TPKhr6S8/image.png' border='0' alt='image'/></a>
+</details>
