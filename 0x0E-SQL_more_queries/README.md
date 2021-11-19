@@ -95,3 +95,8 @@
 <summary><a href="./12-no_genre.sql">12. No genre</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/7Yk6gGbY/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./13-count_shows_by_genre.sql">13. Number of shows by genre</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/L4QdShZ6/image.png' border='0' alt='image'/></a>
+</details>
