@@ -2,6 +2,7 @@
 
 ## Resource
 
+- [SQL Tutorial - w3-schools](https://www.w3schools.com/sql/default.asp)
 - [Databases](./Databases_Concepts.pdf)
 - [What is Database & SQL](https://www.youtube.com/watch?v=FR4QIeZaPeM)
 - [A Basic MySQL Tut](https://www.digitalocean.com/community/tutorials/a-basic-mysql-tutorial)
