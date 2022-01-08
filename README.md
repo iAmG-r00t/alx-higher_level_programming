@@ -64,3 +64,4 @@ Namespaces are one honking great idea -- let's do more of those!
 - [0x03](./0x03-python-data_structures) : Data Structures: Lists, Tuples.
 - [0x0D](./0x0D-SQL_introduction) : SQL - Introduction.
 - [0x0E](./0x0E-SQL_more_queries) : SQL - More queries.
+- [0x10](./0x10-python-network_0) : Python - Network #0.
