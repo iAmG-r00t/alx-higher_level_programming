@@ -11,3 +11,8 @@
 <summary><a href="./0-body_size.sh">0. cURL body size</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/6qhPyM9y/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./1-body.sh">1. cURL to the end</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/8CTknz5v/image.png' border='0' alt='image'/></a>
+</details>
