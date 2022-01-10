@@ -26,3 +26,8 @@
 <summary><a href="./3-methods.sh">3. cURL only methods</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/j2q3F4zX/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./4-header.sh">3. cURL headers</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/DZxRFNfD/image.png' border='0' alt='image'/></a>
+</details>
