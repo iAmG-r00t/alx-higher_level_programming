@@ -48,6 +48,11 @@
 </details>
 
 <details>
-<summary><a href="./101-post_json.sh">7. cURL a JSON file</a></summary><br>
+<summary><a href="./101-post_json.sh">8. cURL a JSON file</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Kv0y7Q6J/image.png' border='0' alt='image'/></a>
+</details>
+
+<details>
+<summary><a href="./102-catch_me.sh">9. Catch me if you can!</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Dz8sfjTD/image.png' border='0' alt='image'/></a>
 </details>
