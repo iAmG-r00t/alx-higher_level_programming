@@ -16,3 +16,8 @@
 <summary><a href="./1-body.sh">1. cURL to the end</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/8CTknz5v/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./2-delete.sh">2. cURL Method</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/SK0BsT8f/image.png' border='0' alt='image'/></a>
+</details>
