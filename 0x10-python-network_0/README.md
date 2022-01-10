@@ -36,3 +36,8 @@
 <summary><a href="./5-post_params.sh">5. cURL POST parameters</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Vv85Q4g3/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./6-peak.py">6. Find a peak</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/1XGBsCQ6/image.png' border='0' alt='image'/></a>
+</details>
