@@ -41,3 +41,8 @@
 <summary><a href="./6-peak.py">6. Find a peak</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/1XGBsCQ6/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./100-status_code.sh">7. Only status code</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/5txN96WR/image.png' border='0' alt='image'/></a>
+</details>
