@@ -16,3 +16,8 @@
 <summary><a href="./1-hbtn_header.py">1. Response header value #0</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/R0vmSgdq/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./2-post_email.py">2. POST an email #0</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MHhrrGHg/image.png' border='0' alt='image'/></a>
+</details>
