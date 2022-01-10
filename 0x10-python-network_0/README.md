@@ -28,6 +28,11 @@
 </details>
 
 <details>
-<summary><a href="./4-header.sh">3. cURL headers</a></summary><br>
+<summary><a href="./4-header.sh">4. cURL headers</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/DZxRFNfD/image.png' border='0' alt='image'/></a>
+</details>
+
+<details>
+<summary><a href="./5-post_params.sh">5. cURL POST parameters</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Vv85Q4g3/image.png' border='0' alt='image'/></a>
 </details>
