@@ -2,7 +2,6 @@
 """
 Same as Task 0 but using request package
 """
-
 import requests
 
 
