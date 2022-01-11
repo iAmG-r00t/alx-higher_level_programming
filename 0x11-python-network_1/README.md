@@ -26,3 +26,8 @@
 <summary><a href="./3-error_code.py">3. Error code #0</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/cLrd4Lhx/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./4-hbtn_status.py">4. What's my status? #1</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sg4fNNTS/image.png' border='0' alt='image'/></a>
+</details>
