@@ -31,3 +31,8 @@
 <summary><a href="./4-hbtn_status.py">4. What's my status? #1</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/sg4fNNTS/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./5-hbtn_header.py">5. Reponse header value #1</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/Bn5FqNnc/image.png' border='0' alt='image'/></a>
+</details>
