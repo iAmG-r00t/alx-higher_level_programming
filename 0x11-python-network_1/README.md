@@ -46,3 +46,8 @@
 <summary><a href="./7-error_code.py">7. Error code #1</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/fT0s0TpB/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./8-json_api.py">8. Search API</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/650QQQvg/image.png' border='0' alt='image'/></a>
+</details>
