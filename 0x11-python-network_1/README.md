@@ -41,3 +41,8 @@
 <summary><a href="./6-post_email.py">6. POST an email #1</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/x1G6WvrB/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./7-error_code.py">7. Error code #1</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/fT0s0TpB/image.png' border='0' alt='image'/></a>
+</details>
