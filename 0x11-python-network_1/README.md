@@ -21,3 +21,8 @@
 <summary><a href="./2-post_email.py">2. POST an email #0</a></summary><br>
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/MHhrrGHg/image.png' border='0' alt='image'/></a>
 </details>
+
+<details>
+<summary><a href="./3-error_code.py">3. Error code #0</a></summary><br>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/cLrd4Lhx/image.png' border='0' alt='image'/></a>
+</details>
